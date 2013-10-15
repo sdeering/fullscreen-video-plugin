@@ -1,7 +1,7 @@
 Fullscreen Video Plugin Demo
 ===========================
 
-One page demo.
+One page demo of Fullscreen Video using jQuery UI Widgets.
 
 Tutorial: http://www.jquery4u.com/media/fullscreen-video-testing/
 
